@@ -1,6 +1,5 @@
 packages:
-    ./grpc-spec
-  , ./grapesy
+    ./grapesy
   , ./tutorials/quickstart
   , ./tutorials/basics
   , ./tutorials/lowlevel
@@ -13,12 +12,6 @@ packages: garp
 
 tests: False
 benchmarks: False
-
-package grpc-spec
-  flags: +snappy
-
-package grapesy
-  flags: +build-demo +build-stress-test
 
 -- The test suite relies on some unreleased fixes:
 --
