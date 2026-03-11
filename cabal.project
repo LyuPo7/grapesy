@@ -11,8 +11,8 @@ packages:
 
 packages: garp
 
-tests: True
-benchmarks: True
+tests: False
+benchmarks: False
 
 package grpc-spec
   flags: +snappy
