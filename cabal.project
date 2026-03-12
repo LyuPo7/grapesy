@@ -1,12 +1,5 @@
 packages:
     ./grapesy
-  , ./tutorials/quickstart
-  , ./tutorials/basics
-  , ./tutorials/lowlevel
-  , ./tutorials/metadata
-  , ./tutorials/monadstack
-  , ./tutorials/conduit
-  , ./tutorials/trailers-only
 
 packages: garp
 
