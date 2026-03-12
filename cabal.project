@@ -1,4 +1,0 @@
-packages:
-    ./grapesy
-
-constraints: diagrams-lib==1.4.6.2
